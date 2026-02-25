@@ -1,0 +1,10 @@
+{
+  "name": "optimistic-oracle-v1",
+  "version": "1.0.0",
+  "description": "Optimistic data verification and dispute resolution smart contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
